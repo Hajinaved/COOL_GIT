@@ -160,11 +160,11 @@ bool getquery(vector<fifi*> &list){
             string nfo;
             string tptp;
             getline(cin,nfo);
-            string ptt="C:/Users/slaha/Desktop/COOL_GIT/COOLER_GIT/DATA/"+nm+".cpp";
+            string ptt="C:/Users/slaha/Desktop/COOL_GIT/DATA/"+nm+".cpp";
             list.push_back(new fifi(ptt,nfo));
             ofstream fin;
             ifstream gin;
-            gin.open("C:/Users/slaha/Desktop/COOL_GIT/COOLER_GIT/DATA/def.cpp");
+            gin.open("C:/Users/slaha/Desktop/COOL_GIT/DATA/def.cpp");
             fin.open(ptt);
             while(!gin.eof()){
              getline(gin,tptp);

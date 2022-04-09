@@ -3,3 +3,15 @@ This code is provided by Arbab naved
 COOL - GIT
  is just a simple code manager 
  the most basic and easy to use file management system with only few accesibilities, comes in handy to a competitive programmer.
+
+
+ it uses a simple logic of manageing c++ files
+ the folder DATA
+ where all the files that can be used with COOL_GIT is present 
+ this will be empty at first 
+
+ untill we add new file.
+
+ data.bin is used to store the information about the files.
+
+ 
