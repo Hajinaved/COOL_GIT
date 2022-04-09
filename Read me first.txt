@@ -1,0 +1,5 @@
+This code is provided by Arbab naved
+
+COOL - GIT
+ is just a simple code manager 
+ the most basic and easy to use file management system with only few accesibilities, comes in handy to a competitive programmer.
