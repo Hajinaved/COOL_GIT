@@ -292,7 +292,6 @@ int main(){
     }
     
     
-   
 
 
     
@@ -307,15 +306,21 @@ int main(){
 
 
 
-
-
-
-// ADDITIONAL FEAUTURES
-
 /*
-    Export file ->  ex haji   same name ki file banayega desktop pe and usme saara content copy karke save kardega desktop pe
-    
-    Generate report -> generate report of work
+at the starting of code execution
+
+1->read for strings from file
+2->use each string to create an object 
+3->store these objects in a list
+initialization completed
+4-> show menu
+
+execute the operations
+
+finalizing or while closing of program
+5-> update file from list of objects
+end
+
+
+
 */
-
-
